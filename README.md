@@ -1,7 +1,7 @@
 # 📊 Student Performance Analysis Dashboard
 
 <p align="center">
-<img src="images/dashboard.png" width="100%" alt="Dashboard Preview">
+<img src="dashboard.png" width="100%" alt="Dashboard Preview">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ The dashboard enables users to explore student performance through interactive c
 # 🖥 Dashboard Preview
 
 <p align="center">
-<img src="images/dashboard.png" width="100%">
+<img src="dashboard.png" width="100%">
 </p>
 
 The dashboard provides a complete overview of student performance using interactive charts and KPI cards.
@@ -41,7 +41,7 @@ The dashboard provides a complete overview of student performance using interact
 # 📊 Pivot Table Example
 
 <p align="center">
-<img src="images/sorgu.png" width="85%">
+<img src="sorgu.png" width="85%">
 </p>
 
 Pivot Tables are used to summarize educational data and generate dynamic dashboard visualizations.
@@ -51,7 +51,7 @@ Pivot Tables are used to summarize educational data and generate dynamic dashboa
 # ❓ Analysis Questions
 
 <p align="center">
-<img src="images/sorular.png" width="70%">
+<img src="sorular.png" width="70%">
 </p>
 
 The dashboard is designed to answer analytical questions such as:
@@ -72,7 +72,7 @@ The dashboard is designed to answer analytical questions such as:
 # 📋 Data Structure
 
 <p align="center">
-<img src="images/veriseti.png" width="100%">
+<img src="veriseti.png" width="100%">
 </p>
 
 The dashboard analyzes structured educational data including student demographics, attendance, study habits, examination scores and academic performance indicators.
@@ -111,11 +111,10 @@ Student-Performance-Analysis-Dashboard
 │
 ├── README.md
 ├── Student_Performance_Dashboard.xlsx
-└── images
-    ├── dashboard.png
-    ├── sorgu.png
-    ├── sorular.png
-    └── veriseti.png
+├── dashboard.png
+├── sorgu.png
+├── sorular.png
+└── veriseti.png
 ```
 
 ---
